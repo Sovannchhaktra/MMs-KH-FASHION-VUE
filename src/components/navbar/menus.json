@@ -1,0 +1,22 @@
+[
+  {
+    "title": "$t('menuHome')",
+    "route": "/",
+    "isDroupDown": false
+  },
+  {
+    "title": "SHOP",
+    "route": "/shop",
+    "isDroupDown": false
+  },
+  {
+    "title": "PRODUCTS",
+    "route": "/products",
+    "isDroupDown": false
+  },
+  {
+    "title": "CONTACT",
+    "route": "/contact",
+    "isDroupDown": false
+  }
+]
