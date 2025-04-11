@@ -14,6 +14,10 @@
   font-weight: normal;
 }
 
+body {
+  color: #333;
+}
+
 body.khmer-mode {
   font-family: "Battambang-Light";
 }
